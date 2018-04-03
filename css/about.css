@@ -1,0 +1,25 @@
+.wrapper{
+    margin-top: 50px;
+    height: 600px;
+    float: left;
+}
+
+.wrapper:first-child{
+    width: 40%;
+}
+.wrapper:last-child{
+    width: 60%;
+}
+.selfie{
+    width:400px;
+    margin: 0 auto;
+    display: block;
+    
+}
+.about-title{
+    font-size: 200%;
+    margin-top: 75px;
+    font-family: 'Pacifico', cursive;
+}
+ 
+    
